@@ -1,0 +1,32 @@
+
+
+.mu-hero-left .mu-primary-btn,
+
+.mu-single-counter i,
+.counter-value {
+	color: #152f51;
+}
+
+.mu-send-msg-btn:hover,
+.mu-send-msg-btn:focus,
+.mu-book-overview-icon-box,
+.mu-order-btn:hover,
+.mu-order-btn:focus {
+	border: 1px solid #152f51;
+	color: #152f51;
+}
+
+.mu-send-msg-btn {
+	border: 1px solid #152f51;
+	background-color: #152f51;
+}
+
+
+#mu-hero,
+.mu-header-dot  {
+
+	background-image: url("../images/dragon-6.gif");
+}
+
+
+
