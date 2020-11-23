@@ -26,6 +26,9 @@
 .mu-header-dot  {
 
 	background-image: url("../images/dragon-6.gif");
+	background-size: cover;
+ 	background-repeat: no-repeat;
+}
 }
 
 
